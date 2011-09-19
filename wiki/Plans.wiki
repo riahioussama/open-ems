@@ -1,0 +1,13 @@
+#summary Basically, I feel there is a need to create a basic testing software, here are some of my basic ideas so far.
+#labels Phase-Design,Featured
+
+* Questions with 4 possible answers
+* Start page allows you to choose categories or the option to get a cluster of various categories 
+* Have test limits (ie. 25 questions, 50 questions, ect.)
+* Idiot proof
+* Way to report bugs
+* Open as possible
+* First design the application, release the skeleton and then work on a version with questions already built in (this is optional but could help us in the long run)
+* Get more medical professionals to donate questions/answers to us
+* Uniform process for gathering questions/answers in a database friendly way
+* Decide what language to use
