@@ -1,0 +1,1 @@
+We want to allow EMTs to study for their jobs without having to pay crazy amount of money for a testing service.
